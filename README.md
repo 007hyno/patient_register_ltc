@@ -38,7 +38,7 @@
 #### Signin as a psychiatrist
 
 ```http
-  POST /api/psychiatrist/signup
+  POST /api/psychiatrist/signin
 ```
 
 | Body Parameter | Type     | Description                |
